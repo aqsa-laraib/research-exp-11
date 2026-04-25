@@ -4,3 +4,5 @@ Output of Colab
 Output of Mendeley
 Lee, H. P. (Hank), Sarkar, A., Tankelevitch, L., Drosos, I., Rintel, S., Banks, R., & Wilson, N. (2025). The Impact of Generative AI on Critical Thinking: Self-Reported Reductions in Cognitive Effort and Confidence Effects From a Survey of Knowledge Workers. In Conference on Human Factors in Computing Systems - Proceedings (Vol. 1, Issue 1). Association for Computing Machinery. https://doi.org/10.1145/3706598.3713778
 
+Repo link
+https://github.com/aqsa-laraib/research-exp-11
